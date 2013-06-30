@@ -2,3 +2,7 @@ http://whatsecondisit.neocities.org/
 
 Sometimes you need to know what second it is. Now you can!
 
+Excuse the poor method of implementation. I initially created the clock about 10 years ago, and just now put it online. Today, I would have just used some css and a canvas to draw the clock. Also, the completely flat directory structure is a limitation of the web host, neocities.org.
+
+This project and all its files are released under the GNU General Public License v3.0 (GPLv3).
+
