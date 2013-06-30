@@ -1,0 +1,42 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+#container {
+	width: 551px;
+	margin: 0 auto;
+	padding-top: 50px;
+}
+
+#clock-box {
+	width: 351px;
+	float: left;
+	position: relative;
+}
+
+#clock-box img {
+	position: absolute;
+	width: 351px;
+}
+
+#seconds-box {
+	width: 180px;
+	margin-left: 371px;
+	padding: 110px 0 0 0;
+	float: left;
+}
+
+h1 {
+	padding: 0;
+	font-size: 18px;
+	line-height: 1em;
+	font-family: Verdana;
+}
+
+#seconds-value {
+	padding-left: 36px;
+	font-family: "Courier New";
+	line-height: 1em;
+	font-size: 90px;
+}
